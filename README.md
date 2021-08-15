@@ -10,3 +10,6 @@ then:
 npm start
 ```
 now, you can see the program running in localhost:3000
+
+## Preview
+https://citas-react0096.vercel.app/
